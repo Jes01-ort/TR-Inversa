@@ -44,7 +44,7 @@ This study analyzes how small ventures that develop artificial intelligence syst
 
 ### Awareness of the Concept of AI Ethics and Preference for Ethical Frameworks
 
-- 60% of the surveyed ventures state that they are familiar with the concept of AI ethics, having heard or read it primarily through books, academic articles, and white papers (35%), as well as from events (29%). Only 16% have encountered it in professional or academic training settings.
+- 60% of the surveyed ventures state that they are familiar with the concept of AI ethics, having heard or read it primarily through books, academic articles, and white papers (35%), as well as through events (29%). Only 16% have encountered it in professional or academic training settings.
 
 - 90% of the ventures that are familiar with the concept of AI ethics consider it relevant to adopt an ethical framework within their teams to guide AI development.
 
