@@ -48,7 +48,7 @@ Este estudio analiza cómo los pequeños emprendimientos que desarrollan sistema
 
 - 90% of the ventures that are familiar with the concept of AI ethics consider it relevant to adopt an ethical framework within their teams to guide AI development.
 
-- •	Two thirds of those who would adopt an ethical framework prefer one validated by an international mechanism (such as a development organization, a consortium of universities, or a standards body).
+- Two thirds of those who would adopt an ethical framework prefer one validated by an international mechanism (such as a development organization, a consortium of universities, or a standards body).
 
 ---
 
