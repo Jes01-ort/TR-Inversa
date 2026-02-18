@@ -22,17 +22,17 @@ This study analyzes how small ventures that develop artificial intelligence syst
 
 ### Impacts of AI Systems
 
-- 54% of the surveyed ventures believe there are risks associated with the use of AI in the sectors in which they operate. At least 70% of ventures in healthcare, government, education, HR, and justice identify such risks.
+- 54% of the surveyed ventures believe there are risks associated with the use of AI in the sectors in which they operate. At least 70% of ventures in healthcare, government, education, human resources, labor markets, and justice identify such risks.
 
-- Among the ventures that identify risks, 64% have faced risks associated with the use of sensitive data, 50% have encountered algorithmic bias and potential discriminatory or exclusionary outcomes. Moreover, about one-third identified inaccurate predictions or correlations. At least one-quarter identified risks linked to AI systems robustness and security, data exposure or breach, and malpractice or implementation errors.
+- Among the ventures that identify risks, 64% have faced risks associated with the use of sensitive data, while 50% have encountered algorithmic bias and potential discriminatory or exclusionary outcomes. Moreover, about one-third identified inaccurate predictions or correlations. At least one-quarter identified risks linked to AI systems robustness and security, data exposure or data breaches, and malpractice or implementation errors.
 
-- In general, these risks were identified before reaching the market: 60% of the surveyed ventures identified them prior to product development, while 72% identified them during the development phase. However, 28% detected risks after the product or service had been launched.
+- In general, these risks were identified before reaching the market: 60% of the surveyed ventures identified them prior to product development, while 72% identified them during the development phase. However, 28% identified risks after the product or service had been launched.
 
 ### Mitigation of Impacts in Ventures That Identify AI Risks in Their Sector
 
 - 82% state that they carry out activities to identify or mitigate risks.
 
-- Two thirds of the ventures carry out activities where clients or users can improve their understanding of basic AI concepts, or of the process or logic through which AI systems reach a given result.
+- Two-thirds of the ventures carry out activities where clients or users can improve their understanding of basic AI concepts, or of the process or logic through which AI systems reach a given result.
 
 - 89% usually stay informed about ways to address them. They do so mainly through active search and monitoring of information on the topic (84%), participation in events (72%) and communities (68%).
 
@@ -48,7 +48,7 @@ This study analyzes how small ventures that develop artificial intelligence syst
 
 - 90% of the ventures that are familiar with the concept of AI ethics consider it relevant to adopt an ethical framework within their teams to guide AI development.
 
-- Two thirds of those who would adopt an ethical framework prefer one validated by an international mechanism (such as a development organization, a consortium of universities, or a standards body).
+- Two-thirds of those who would adopt an ethical framework prefer one validated by an international mechanism (such as a development organization, a consortium of universities, or a standards body).
 
 ---
 
