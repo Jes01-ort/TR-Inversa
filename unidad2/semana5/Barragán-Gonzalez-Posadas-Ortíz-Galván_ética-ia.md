@@ -10,7 +10,7 @@ nav_order: 4
 
 **By GuIA.ai**
 
-This study analyzes how small ventures that develop artificial intelligence systems in Latin America interpret and apply the principles of AI ethics in their business practices. The research was conducted through a regional survey to examine the perceptions, motivations, and main risks these companies face regarding AI ethics. The results indicate that, although there is a widespread understanding of ethical principles, these principles still need to be translated into concrete operational practices. 
+This study analyzes how small ventures that develop artificial intelligence systems in Latin America interpret and apply the principles of AI ethics in their business practices. The research was conducted through a regional survey to examine the perceptions, motivations, and main risks these companies face regarding AI ethics. The results indicate that, although there is a widespread understanding of ethical principles, these still need to be translated into concrete operational practices. 
 
 ## Survey Findings
 
