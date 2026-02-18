@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuIA.ai - The role of Ethics
+title: GuIA.ai - The Role of Ethics
 parent: Semana 5
 grand_parent: Unidad 2
 nav_order: 4
