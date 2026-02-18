@@ -10,7 +10,7 @@ nav_order: 4
 
 **By GuIA.ai**
 
-This study analyzes how small ventures that develop artificial intelligence systems in Latin America interpret and apply AI ethics principles in their business practices. The research was conducted through a regional survey to examine the perceptions, motivations, and main risks these companies face regarding AI ethics. The results indicate that, although there is a widespread understanding of ethical principles, these principles still need to be translated into concrete operational practices. 
+This study analyzes how small ventures that develop artificial intelligence systems in Latin America interpret and apply the principles of AI ethics in their business practices. The research was conducted through a regional survey to examine the perceptions, motivations, and main risks these companies face regarding AI ethics. The results indicate that, although there is a widespread understanding of ethical principles, these principles still need to be translated into concrete operational practices. 
 
 ## Survey Findings
 
@@ -24,7 +24,7 @@ This study analyzes how small ventures that develop artificial intelligence syst
 
 - 54% of the surveyed ventures believe there are risks associated with the use of AI in the sectors in which they operate. At least 70% of ventures in healthcare, government, education, human resources, labor markets, and justice identify such risks.
 
-- Among the ventures that identify risks, 64% have faced risks associated with the use of sensitive data, while 50% have encountered algorithmic bias and potential discriminatory or exclusionary outcomes. Moreover, about one-third identified inaccurate predictions or correlations. At least one-quarter identified risks linked to AI systems robustness and security, data exposure or data breaches, and malpractice or implementation errors.
+- Among the ventures that identify risks, 64% have faced risks associated with the use of sensitive data, while 50% have encountered algorithmic bias and potential discriminatory or exclusionary outcomes. Moreover, about one-third identified inaccurate predictions or correlations. At least one-quarter identified risks linked to AI system robustness and security, data exposure or data breaches, and malpractice or implementation errors.
 
 - In general, these risks were identified before reaching the market: 60% of the surveyed ventures identified them prior to product development, while 72% identified them during the development phase. However, 28% identified risks after the product or service had been launched.
 
