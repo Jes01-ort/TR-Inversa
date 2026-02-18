@@ -6,19 +6,19 @@ grand_parent: Unidad 2
 nav_order: 4
 ---
 
-# El papel de la ética en el desarrollo de sistemas de inteligencia artificial en el sector emprendedor en América Latina
+# The Role of Ethics in the Development of Artificial Intelligence Systems in the Venture Sector in Latin America
 
-**Por GuIA.ai**
+**By GuIA.ai**
 
-Este estudio analiza cómo los pequeños emprendimientos que desarrollan sistemas de inteligencia artificial en América Latina interpretan y aplican principios éticos en sus prácticas empresariales. La investigación se realizó mediante una encuesta regional para examinar las percepciones, motivaciones y principales riesgos que enfrentan estas empresas en relación con la ética de la IA. Los resultados indican que, si bien existe una comprensión generalizada de los principios éticos, aún es necesario traducir estos principios en prácticas operacionales concretas.
+This study analyzes how small ventures that develop artificial intelligence systems in Latin America interpret and apply AI ethics principles in their business practices. The research was conducted through a regional survey to examine the perceptions, motivations, and main risks these companies face regarding AI ethics. The results indicate that, although there is a widespread understanding of ethical principles, these principles still need to be translated into concrete operational practices. 
 
-## Hallazgos de la encuesta
+## Survey Findings
 
-### Técnicas y tipos de aplicación de IA
+### AI Techniques and Types of Applications
 
-- Los emprendimientos suelen utilizar aprendizaje supervisado (71%). Además, alrededor del 50% utiliza redes neuronales, redes neuronales profundas, análisis de grupo, aprendizaje no supervisado y árbol de decisión.
+- Ventures mainly use supervised learning (71%). In addition, around 50% use neural networks, deep neural networks (DNN), clustering, unsupervised learning, and decision trees.  
 
-- El 71% aplica IA para realizar clasificaciones, mientras que el 65% y 61% la utiliza para el reconocimiento de patrones y predicciones, respectivamente. La mitad, además, realiza reconocimiento de imágenes.
+- 71% uses AI for classification tasks, while 65% and 61% use it for pattern recognition and predictions, respectively. Half of the companies also perform image recognition.  
 
 ### Impacts of AI Systems
 
