@@ -38,7 +38,7 @@ This study analyzes how small ventures that develop artificial intelligence syst
 
 ### Incentives and Barriers to Identifying and/or Addressing Risks in the Use of AI
 
-- Ventures that identify and/or address risks in the use of AI do so primarily out of intrinsic motivation (78%), reputation concerns (60%), user protection (60%), and regulatory compliance (47%). To a lesser extent, they act due to third party requirements, such as those imposed by clients, investors, or accelerators (17%).
+- Ventures that identify and/or address risks in the use of AI do so primarily out of intrinsic motivation (78%), reputation concerns (60%), user protection (60%), and regulatory compliance (47%). To a lesser extent, they act due to third-party requirements, such as those imposed by clients, investors, or accelerators (17%).
 
 - Among those who address risks related to the use of AI in their ventures, 65% believe there are factors that hinder the adoption of such practices. These include the absence of regulatory frameworks and/or regulatory bodies (mentioned by 66%), non-representative, incomplete, or inaccurate training and validation data (46%), lack of clarity regarding responsibilities in the use of AI systems (46%), and lack of human resources (40%).
 
