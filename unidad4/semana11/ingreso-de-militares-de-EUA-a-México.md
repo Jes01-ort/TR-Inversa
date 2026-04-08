@@ -45,7 +45,7 @@ CLAUDIA SHEINBAUM PARDO
 
 [SEAL: UNITED MEXICAN STATES]
 
-**Sources:** [https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf](https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf)
+**Source:** [https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf](https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf)
 
 ---
 ## Document 2 – Decree
